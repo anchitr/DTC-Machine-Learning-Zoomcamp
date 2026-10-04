@@ -1,0 +1,39 @@
+[
+  {
+    "id": "w9ti2fzjndx9974ijad7awgo",
+    "name": "Gruvbox Dark Hard",
+    "variables": {
+      "--color-app-sidebar": "#17191a",
+      "--color-bg-error": "#cc241d",
+      "--color-bg-tooltip": "#282828",
+      "--color-editor-body": "#ebdbb2",
+      "--color-editor-heading": "#fbf1c7",
+      "--color-bg-doc-link": "#d65d0e33",
+      "--color-bg-secondary": "#3c3836",
+      "--color-border-primary": "#32302f",
+      "--color-text-link": "#83a598",
+      "--color-bg-intermediate": "#282828",
+      "--color-bg-hover": "#32302f",
+      "--color-border-accent": "#fe8019",
+      "--color-bg-primary": "#1d2021",
+      "--color-bg-mark": "#b57614",
+      "--color-border-secondary": "#665c54",
+      "--color-bg-tertiary": "#504945",
+      "--color-border-error": "#fb4934",
+      "--color-text-placeholder": "#7c6f64",
+      "--color-text-secondary": "#d5c4a1",
+      "--color-bg-accent": "#d65d0e",
+      "--color-text-accent": "#fe8019",
+      "--color-text-error": "#fb4934",
+      "--color-outline-primary": "#fe801981",
+      "--color-text-tertiary": "#a89984",
+      "--color-text-primary": "#ebdbb2",
+      "--color-icon": "#bdae93",
+      "--color-bg-kbd": "#3c3836"
+    },
+    "dark": true,
+    "baseTheme": "default-dark",
+    "created": 1790839170478,
+    "modified": 1790839170478
+  }
+]
