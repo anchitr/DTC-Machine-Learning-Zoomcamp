@@ -3,6 +3,8 @@ pinned: true
 ---
 
 
+
+
 # Machine Learning Zoomcamp
 
 This is the main page for personal learning management for the DataTalksClub Machine Learning Zoomcamp. A 10-week online course that can be taken in a cohort or self-paced.
@@ -17,7 +19,7 @@ The purpose of this course is to not just teach the basics of Machine Learning a
 
 | Topic | Description | Tools |
 | --- | --- | --- |
-| [[Week-02-Linear Regression-Feature-Engineering/Linear Regression and Feature Engineering]] | Master feature creation, categorical variable handling, and regularization techniques | NumPy, Pandas, Scikit-Learn |
+| [[Part-1-ML-DL/Week-02/Linear Regression and Feature Engineering]] | Master feature creation, categorical variable handling, and regularization techniques | NumPy, Pandas, Scikit-Learn |
 | **Classification with Logistic Regression** | Learn feature importance and model evaluation | Scikit-Learn, Matplotlib |
 | **Decision Trees and Ensemble Methods** | Explore gradient boosting and XGBoost implementation | XGBoost, Scikit-Learn |
 | **Neural Networks and Deep Learning** | Build CNNs and implement transfer learning | TensorFlow, PyTorch, Keras |
